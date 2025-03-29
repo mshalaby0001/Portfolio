@@ -1,3 +1,2 @@
-# HTML Summary
-## Getting Started
-1. [Adding title to the web page]()
+# Protofolio Page
+### this page contains information about my projects as a full stack developer
